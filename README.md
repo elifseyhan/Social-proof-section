@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/elifseyhan/Social-proof-section)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://cerulean-figolla-612e25.netlify.app)
 
 ## My process
 
